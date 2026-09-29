@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Hangman Rongawi</string>
+    <string name="judul_permainan">Hangman Rongawi</string>
+    <string name="hint_tebak">Huruf</string>
+    <string name="btn_tebak">Tebak</string>
+    <string name="btn_main_lagi">Main Lagi Bro</string>
+    <string name="btn_ganti_level">Ganti Level</string>
+    <string name="btn_mulai">Mulai Bermain</string>
+    <string name="menang">Menyala Abangkuh! Kamu Menang!</string>
+    <string name="kalah">Yahh Kalah, Sini Peluk Dulu</string>
+    <string name="gambar_gantungan">Gambar tiang gantungan</string>
+    <string name="petunjuk_umum">Petunjuk umum: semua kata berkaitan dengan Kitab Rongawi, dan persahabatan pria sejati.</string>
+    <string name="judul_level">Pilih Tingkat Kesulitan Bro</string>
+    <string name="level_mudah">Mudah (8 nyawa)</string>
+    <string name="level_sedang">Sedang (6 nyawa)</string>
+    <string name="level_sulit">Sulit (4 nyawa)</string>
+
+    <!-- daftar kata & petunjuk: URUTAN HARUS SAMA -->
+    <string-array name="daftar_kata">
+        <item>ANDRE</item>
+        <item>NGAWI</item>
+        <item>RUSDI</item>
+        <item>GYM</item>
+        <item>AMBALEON</item>
+        <item>IRONI</item>
+    </string-array>
+    <string-array name="daftar_petunjuk">
+        <item>Pemilik barbershop legendaris yang penuh kasih sayang</item>
+        <item>Kabupaten atau kota suci pusat peradaban meme kita</item>
+        <item>Tukang cukur tampan andalan dari kota suci</item>
+        <item>Tempat cowok-cowok berotot kumpul dan saling bantu angkat beban</item>
+        <item>Penakluk Daerah Rongawi</item>
+        <item>Mas-mas berotot yang videonya sering bikin sedih</item>
+    </string-array>
+</resources>
